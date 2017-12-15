@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OJTrain.iml" filepath="$PROJECT_DIR$/OJTrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureStudy.iml" filepath="$PROJECT_DIR$/DataStructureStudy.iml" />
     </modules>
   </component>
 </project>

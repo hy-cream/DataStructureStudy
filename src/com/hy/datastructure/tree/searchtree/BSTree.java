@@ -1,4 +1,4 @@
-package com.hy.oj.tree.bs;
+package com.hy.datastructure.tree.searchtree;
 
 /**
  * Created by huyu on 2017/11/30
