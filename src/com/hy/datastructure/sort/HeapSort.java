@@ -1,4 +1,4 @@
- package com.hy.oj.sort;
+ package com.hy.datastructure.sort;
 
 /**
  * Created by huyu on 2017/11/13
