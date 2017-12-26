@@ -1,4 +1,4 @@
-package com.hy.oj.search;
+package com.hy.oj;
 
 import java.util.Scanner;
 

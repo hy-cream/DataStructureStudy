@@ -1,4 +1,4 @@
-package com.hy.oj.tree.bs;
+package com.hy.oj;
 
 import java.util.HashMap;
 import java.util.Map;
