@@ -29,7 +29,7 @@ class  SpeciesTree{
     public SpeciesNode getRoot() {
         return root;
     }
-  /*  中序遍历,默认从根节点开始*/
+    /*  中序遍历,默认从根节点开始*/
     public void inOrder(SpeciesNode node){
         if(node != null){
             inOrder(node.leftNode);
