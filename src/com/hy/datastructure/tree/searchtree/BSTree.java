@@ -54,7 +54,7 @@ public class BSTree<T extends Comparable<T>> {
         if(tree != null){ //该节点不存在子节点时，返回
             System.out.println("key-->"+tree.key);
             preOrder(tree.left);
-            preOrder(tree.left);
+            preOrder(tree.right);
         }
     }
 

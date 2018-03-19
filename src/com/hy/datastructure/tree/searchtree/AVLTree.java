@@ -51,7 +51,7 @@ public class AVLTree<T extends Comparable<T>> {
     }
 
     /**
-     * 节点右旋 LL
+     * 节点左旋 LL ，往右转
      * @param node
      * @return 当前根节点
      */
@@ -70,7 +70,7 @@ public class AVLTree<T extends Comparable<T>> {
 
 
     /**
-     * 节点左旋 RR
+     * 节点右旋 RR 往左转
      * @param node
      * @return 当前根节点
      */
