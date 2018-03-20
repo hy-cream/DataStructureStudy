@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b65622d-c2ce-4a8a-aa08-7e0879acd9aa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/hy/bishi/Bracelet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/hy/bishi/UserPrefer.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/hy/datastructure/tree/searchtree/AVLTree.java" afterPath="$PROJECT_DIR$/src/com/hy/datastructure/tree/searchtree/AVLTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/hy/datastructure/tree/searchtree/BSTree.java" afterPath="$PROJECT_DIR$/src/com/hy/datastructure/tree/searchtree/BSTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/hy/oj/BinaryAlgor.java" afterPath="$PROJECT_DIR$/src/com/hy/oj/BinaryAlgor.java" />
-    </list>
+    <list default="true" id="4b65622d-c2ce-4a8a-aa08-7e0879acd9aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -189,7 +182,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="864" />
     <option name="y" value="10" />
     <option name="width" value="931" />
@@ -452,15 +445,15 @@
       <workItem from="1513931081088" duration="5892000" />
       <workItem from="1514185085836" duration="11716000" />
       <workItem from="1521171256569" duration="4477000" />
-      <workItem from="1521450526968" duration="7385000" />
+      <workItem from="1521450526968" duration="7982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129847000" />
+    <option name="totallyTimeSpent" value="130444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -710,7 +703,7 @@
         <state relative-caret-position="368">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
