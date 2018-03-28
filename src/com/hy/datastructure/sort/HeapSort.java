@@ -17,6 +17,7 @@ public class HeapSort {
         int[] h=new int[]{-1,5,6,4,8,2,9,1,3,0};
         int[] h2=new int[10];
         int len=h.length-1;
+
        //创建堆1.从第len/2--1,进行向下调整
        for(int i=len/2; i>=1; i--){
            siftDown(i,len,h);
